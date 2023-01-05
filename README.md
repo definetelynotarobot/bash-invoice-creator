@@ -7,10 +7,10 @@ Zenity ve Bash kullanarak yaptığım fatura oluşturma uygulaması
 ### Uygulamada fatura oluşturmak için scriptte kullanılan GUI elemanlarıyla html şeklinde bir fatura elde ediyoruz.
 
 ## Ekran Görüntüleri
-![Alt text](şirketbilgileri.png "Fatura Bilgileri Ekranı")
-![Alt text](fatura numarası.png "Fatura Numarası Ekranı")
+![Alt text](sirketbilgileri.png "Fatura Bilgileri Ekranı")
+![Alt text](faturanumarasi.png "Fatura Numarası Ekranı")
 ![Alt text](faturatarihi.png "Fatura Tarihi Ekranı")
-![Alt text](alıcıfaturabilgileri.png "Alıcı Şirket Bilgileri Ekranı")
+![Alt text](alicifaturabilgileri.png "Alıcı Şirket Bilgileri Ekranı")
 ![Alt text](temarengi.png "Tema seçme Ekranı")
 
 Projemin tanıtım videosuna;
